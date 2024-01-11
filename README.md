@@ -11,7 +11,7 @@ A React Native app that food menu.
 
 This application was created for the Mobile Application Development course offered at ATÜ.
 
-**Task:** Track the [Unit 6 (React Navigation)](https://github.com/academind/react-native-practical-guide-code/tree/06-navigation) example to [Unit8 (Redux)](https://github.com/academind/react-native-practical-guide-code/tree/07-redux-context).
+**Task:** Track the [Unit 6 (React Navigation)](https://github.com/academind/react-native-practical-guide-code/tree/06-navigation) example to [Unit 8 (Redux)](https://github.com/academind/react-native-practical-guide-code/tree/07-redux-context).
 
 ## Installation
 
